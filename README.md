@@ -8,5 +8,5 @@
 * GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization (2021)
 * Approximate Differentiable Rendering with Algebraic Surfaces (2022)
 
-Structure From Motion
+## Structure From Motion
 * Global Structure-from-Motion Revisited (2024)
